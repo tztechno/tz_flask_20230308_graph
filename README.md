@@ -12,3 +12,4 @@ each time you reload the web, unique graph will be shown.
 * export FLASK_ENV=development
 * flask run
 
+![plot](plot.png)
